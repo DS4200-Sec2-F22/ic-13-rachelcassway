@@ -41,7 +41,7 @@ import {scaleLinear} from "d3-scale";
 Or import everything into a namespace (here, `d3`):
 
 ```js
-import * as d3 from "d3";
+import * as d3 from "js/d3.v6.1.1/d3";
 ```
 
 In Node:
